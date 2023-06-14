@@ -16,7 +16,7 @@ export default function Home() {
         DEX Market Cap
       </h1>
       <p className="max-w-lg text-center mt-6">
-       Real-time, on-chain data or it didn't happen!
+       Real-time, on-chain data or it didn&apos;t happen!
       <br/>
         Centralized exchanges need not apply.
       </p>
